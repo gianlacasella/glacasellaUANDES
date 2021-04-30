@@ -13,17 +13,13 @@ I like to keep on learning new things
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=2bbc8a)
-
-
-
-![](https://img.shields.io/badge/%3COS%3E-%3CLinux%3E-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/%3CShell%3E-%3CBash%3E-informational?style=flat&logo=%3C#4EAA25%3E&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/%3CDatabase%3E-%3CPostgreSQL%3E-informational?style=flat&logo=%3C#336791%3E&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/%3CDatabase%3E-%3CMySQL%3E-informational?style=flat&logo=%3C#4479A1%3E&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/%3CDatabase%3E-%3CMariaDB%3E-informational?style=flat&logo=%3C#003545%3E&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/%3CDatabase%3E-%3CMongoDB%3E-informational?style=flat&logo=%3C#47A248%3E&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/%3CTools%3E-%3CAWSDB%3E-informational?style=flat&logo=%3C#232F3E%3E&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/%3CTools%3E-%3CDigitalOceanDB%3E-informational?style=flat&logo=%3C#0080FF%3E&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&color=2bbc8a)
 
 
 #### I'm currently:
