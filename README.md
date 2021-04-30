@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**glacasellaUANDES/glacasellaUANDES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 👋
+My name's Gianfranco Lacasella
 
-Here are some ideas to get you started:
+I like to keep on learning new things in order to unleash my creativity, which has been my best ally for years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacasellaUANDES&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glacasellaUANDES&count_private=true&show_icons=true&theme=tokyonight)
+
+#### I'm currently:
+- Leading a web development team
+- Working on Microservices
+- Working on Machine Learning
+- Learning Rails and Kotlin
+- Improving my algorithms and problem solving skills
