@@ -9,7 +9,7 @@ I like to keep on learning new things
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glacasellaUANDES&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 <br>
-![](https://img.shields.io/badge/%3COS%3E-%3CLinux%3E-informational?style=flat&logo=%3C<LOGO_NAME>%3E&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/%3COS%3E-%3CLinux%3E-informational?style=flat&logo=#4EAA25&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/%3CShell%3E-%3CBash%3E-informational?style=flat&logo=%3C#4EAA25%3E&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/%3CDatabase%3E-%3CPostgreSQL%3E-informational?style=flat&logo=%3C#336791%3E&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/%3CDatabase%3E-%3CMySQL%3E-informational?style=flat&logo=%3C#4479A1%3E&logoColor=white&color=2bbc8a)
