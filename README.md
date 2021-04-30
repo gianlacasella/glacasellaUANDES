@@ -1,5 +1,5 @@
 
-## Hey there! 👋
+## Hey there! ![Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 My name's Gianfranco Lacasella
 
 I like to keep on learning new things
