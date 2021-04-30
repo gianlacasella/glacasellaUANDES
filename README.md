@@ -2,7 +2,7 @@
 ## Hey there! 👋
 My name's Gianfranco Lacasella
 
-I like to keep on learning new things in order to unleash my creativity, which has been my best ally for years.
+I like to keep on learning new things
 
 ## My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacasellaUANDES&layout=compact&theme=tokyonight)
