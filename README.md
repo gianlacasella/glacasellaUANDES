@@ -1,6 +1,6 @@
 
-## Hey there! ![Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-My name's Gianfranco Lacasella
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name's Gianfranco Lacasella. I'm a Computer Science Engineering Student at Universidad de los Andes (Chile)
 
 I like to keep on learning new things
 
