@@ -18,8 +18,8 @@ I like to keep on learning new things
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon_AWS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=DigitalOceanColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=DigitalOcean&Color=white&color=2bbc8a)
 
 
 #### I'm currently:
