@@ -4,7 +4,7 @@ My name's Gianfranco Lacasella. I'm a Computer Science Engineering Student at Un
 
 I like to keep on learning new things
 
-## Some stats, details and tools
+## Some stats, details and tools 🔧
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacasellaUANDES&layout=compact&theme=tokyonight&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glacasellaUANDES&count_private=true&show_icons=true&theme=tokyonight)
 <br>
