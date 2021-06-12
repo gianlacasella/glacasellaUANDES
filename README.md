@@ -23,8 +23,6 @@ I like to keep on learning new things
 
 
 #### I'm currently:
-- Leading a web development team
+- Leading an IT Team
 - Working on Microservices
 - Working on Machine Learning
-- Learning Rails and Kotlin
-- Improving my algorithms and problem solving skills
