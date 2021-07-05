@@ -26,7 +26,7 @@
 
 
 ## What am I doing?
-- Leading Refy's IT Team (a chilean online mortgage broker, check it out at refy.cl)
+- Leading Refy's IT Team (a chilean online mortgage broker, check it out at www.refy.cl)
 - Working on Microservices architecture with AWS at Refy and ESE Business School Chile
 - Working with React and nextjs framework at Refy
-- Working on Machine Learning (Natural Language Processing and Recommender Systems) at Latinux Inc.
+- Working on Machine Learning (Natural Language Processing and Recommender Systems) at Latinux Inc. and ESE Business School Chile
