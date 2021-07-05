@@ -25,8 +25,8 @@
 ![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=DigitalOcean&Color=white&color=2bbc8a)
 
 
-#### I'm currently:
-- Leading an IT Team
-- Working on Microservices architecture with AWS
-- Working with React and nextjs framework
-- Working on Machine Learning (Natural Language Processing and Recommender Systems)
+## What am I doing?
+- Leading Refy's IT Team (a chilean online mortgage broker, check it out at refy.cl)
+- Working on Microservices architecture with AWS at Refy and ESE Business School Chile
+- Working with React and nextjs framework at Refy
+- Working on Machine Learning (Natural Language Processing and Recommender Systems) at Latinux Inc.
