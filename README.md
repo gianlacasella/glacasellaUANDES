@@ -1,10 +1,11 @@
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name's Gianfranco Lacasella. I'm a Computer Science Engineering Student at Universidad de los Andes (Chile), Minor in Innovation and Technological Concentration in Systems and Signals. I'm interested in AI and technology linked to innovation.
 
-I love to keep on learning new things, and solve real life problems in a creative way.
+* 👨‍🎓 My name's Gianfranco Lacasella. I'm a Computer Science Engineering Student at Universidad de los Andes (Chile), Minor in Innovation and Technological Concentration in Systems and Signals. 
 
-If you want to hang out for a coffee, send me an email at glacasella@miuandes.cl!
+* :brain: I'm interested in AI and innovation through IT solutions. I love to keep on learning new things, and solve real life problems in a creative way.
+
+* :smile: If you want to hang out for a :coffee:, send me an email at glacasella@miuandes.cl!
 
 ## Some stats, details and tools 🔧
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacasellaUANDES&layout=compact&theme=tokyonight&langs_count=10)
