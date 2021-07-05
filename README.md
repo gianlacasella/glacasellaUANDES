@@ -4,7 +4,7 @@ My name's Gianfranco Lacasella. I'm a Computer Science Engineering Student at Un
 
 I love to keep on learning new things, and solve real life problems in a creative way.
 
-If you want to hang out for a coffee, send me an email!
+If you want to hang out for a coffee, send me an email at glacasella@miuandes.cl!
 
 ## Some stats, details and tools 🔧
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacasellaUANDES&layout=compact&theme=tokyonight&langs_count=10)
