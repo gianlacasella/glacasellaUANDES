@@ -24,5 +24,6 @@ I like to keep on learning new things
 
 #### I'm currently:
 - Leading an IT Team
-- Working on Microservices
-- Working on Machine Learning
+- Working on Microservices architecture with AWS
+- Working with React and nextjs framework
+- Working on Machine Learning (Natural Language Processing and Recommender Systems)
