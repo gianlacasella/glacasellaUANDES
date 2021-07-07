@@ -1,7 +1,7 @@
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* 👨‍🎓 My name's Gianfranco Lacasella. I'm a senior (4th year) Computer Science Engineering Student at Universidad de los Andes (Chile), with Minor in Innovation and Technological Concentration in Systems and Signals. 
+* 👨‍🎓 My name's Gianfranco Lacasella. I'm a senior (4th year) Computer Science Engineering Student at Universidad de los Andes (Chile), with Minor in Innovation
 
 * :brain: I'm interested in AI and innovation through IT solutions. I love to keep on learning new things, and solve real life problems in a creative way.
 
