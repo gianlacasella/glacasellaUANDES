@@ -3,7 +3,7 @@
 
 * 👨‍🎓 My name's Gianfranco Lacasella. I'm a senior (4th year) Computer Science Engineering Student at Universidad de los Andes (Chile), with Minor in Innovation
 
-* :brain: I'm interested in AI and innovation through IT solutions. I love to keep on learning new things, and solve real life problems in a creative way.
+* :brain: I'm interested in AI and innovation through IT solutions. I love to keep on learning new things, and solve real life problems in a creative way
 
 * :smile: If you want to hang out for a :coffee:, send me an email at glacasella@miuandes.cl!
 
