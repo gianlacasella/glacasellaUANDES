@@ -1,9 +1,9 @@
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* 👨‍🎓 My name is Gianfranco Lacasella. I'm Software Engineer at Globant
+* 👨‍🎓 My name is Gianfranco Lacasella. I'm Software Engineer at Globant.
 
-* I'm Bachelor of Computer Science at Universidad de los Andes, with Minor in Innovation
+* I'm Bachelor of Computer Science at Universidad de los Andes (Chile), with Minor in Innovation
 
 * :brain: I'm interested in AI and innovation through IT solutions. I love to keep on learning new things, and solve real life problems in a creative way
 
