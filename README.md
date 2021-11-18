@@ -7,6 +7,8 @@
 
 * :brain: I'm interested in AI and innovation through IT solutions. I love to keep on learning new things, and solve real life problems in a creative way
 
+* 💻 Among the languages I work with are Python, C#, C/C++, JS, and Ruby. Among database engines, PostgreSQL, MySQL and MongoDB 
+
 * :smile: If you want to hang out for a :coffee:, send me an email at glacasella@miuandes.cl!
 
 ## Some stats, details and tools 🔧
